@@ -1,2 +1,2 @@
-# earthportal_project
-Repository to drive the project management.
+# EarthPortal project management
+This repository is used to track everything about the EarthPortal management.
